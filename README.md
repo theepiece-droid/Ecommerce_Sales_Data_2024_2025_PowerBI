@@ -57,17 +57,13 @@
 * Applied across key variables:
 
   * Quantity, Unit Price, Discount, Sales, Profit
-
----
-Here’s a clean way to convert your **Power BI project description** into a **GitHub-ready project (README + structure + summary analysis)**:
-
 ---
 
 ## 📊 GitHub Project: Ecommerce Sales Data Analysis Dashboard (Power BI)
 
 ### 📌 Project Overview
 
-This project focuses on analyzing eCommerce sales data using **Power BI** to generate meaningful insights through interactive dashboards and visualizations.
+This project involves analyzing eCommerce sales data using Power BI, leveraging measures and DAX calculations to derive meaningful insights through interactive dashboards and visualizations.
 
 The dashboard provides a comprehensive view of key business metrics such as:
 
@@ -150,23 +146,10 @@ The dashboard provides a comprehensive view of key business metrics such as:
 
 ---
 
-## 🚀 How to Use
-
-1. Download the `.pbix` file
-2. Open in **Power BI Desktop**
-3. Explore dashboard using slicers and filters
-
----
-
-If you want, I can also:
-
-* Generate a **real sample dataset**
-* Create a **portfolio description (resume-ready)**
-* Or design a **LinkedIn project post** 🚀
-
-Strengthen marketing in underperforming regions
-Leverage seasonal trends for inventory planning
 🚀 How to Use
 Download the .pbix file
 Open in Power BI Desktop
 Explore dashboard using slicers and filters
+
+<img width="669" height="504" alt="Ecommerce_Sales_Data_2024_2025" src="https://github.com/user-attachments/assets/8e657ead-37a4-48f4-9b6f-edfd6f138199" />
+

@@ -1,11 +1,21 @@
 ## 📊 Ecommerce Sales Data Analysis and insights using Excel and Power BI
 
-Power BI Excel Domain-Finance Language-DAX
-Domain: Ecommerce | Profit and Revenue Analysis
+## 🏷️ Project Overview
 
-Tools: Power BI | Excel | DAX | Power Query | Data Modeling
+- **Domain:** Ecommerce – Profit & Revenue Analysis  
+- **Business Context:** Finance  
 
+## 🛠️ Tech Stack
 
+- **Tools:** Power BI, Microsoft Excel  
+- **Language:** DAX (Data Analysis Expressions)  
+- **Technologies:** Power Query, Data Modeling  
+
+## 📊 Key Focus
+
+- Financial data analysis and reporting  
+- Profitability and revenue insights  
+- Interactive dashboard development using Power BI  
 
 
 ## 🧹 Data Pre-processing (Excel)

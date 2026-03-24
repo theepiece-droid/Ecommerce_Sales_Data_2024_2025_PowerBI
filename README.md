@@ -78,6 +78,45 @@
 
   * Quantity, Unit Price, Discount, Sales, Profit
 ---
+## 📂 Dataset Attributes
+
+This dataset contains summarized eCommerce sales metrics used for financial analysis and dashboard reporting.
+
+### 🧾 Columns Description
+
+| Column Name | Description |
+|------------|------------|
+| Quantity | Number of units sold |
+| Unit Price | Price per unit of product |
+| Discount | Discount applied on products |
+| Sales | Total sales value generated |
+| Profit | Profit earned after discount and cost adjustments |
+
+### 📊 Statistical Metrics Included
+
+| Metric | Description |
+|--------|------------|
+| Mean | Average value of each metric |
+| Median | Middle value of the dataset |
+| Mode | Most frequently occurring value |
+| Standard Error | Measure of data variability |
+
+### 📈 Usage in Project
+
+| Area | Details |
+|------|--------|
+| Analysis | Financial performance analysis |
+| Insights | Sales trends and profitability evaluation |
+| Power BI | Used for DAX measures and KPI creation |
+
+### 🧹 Data Characteristics
+
+| Feature | Description |
+|--------|------------|
+| Data Type | Pre-aggregated dataset |
+| Structure | Organized for analysis and visualization |
+| Purpose | Dashboarding and insights generation |
+- --
 
 ## 📊 GitHub Project: Ecommerce Sales Data Analysis Dashboard (Power BI)
 

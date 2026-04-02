@@ -2,6 +2,11 @@
 
 ## 🏷️ Project Overview
 
+![Excel](https://img.shields.io/badge/Tool-Excel-green)
+![PowerBI](https://img.shields.io/badge/Tool-PowerBI-orange)
+![Data Analysis](https://img.shields.io/badge/Focus-Data%20Analysis-blue)
+![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
+
 - **Domain:** Ecommerce – Profit & Revenue Analysis  
 - **Business Context:** Finance  
 
